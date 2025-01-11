@@ -1,0 +1,88 @@
+/* Estilos gerais da seção UTM */
+.elementor-control-section_utm {
+    margin-bottom: 15px;
+}
+
+/* Estilização do select de parâmetros */
+.elementor-control-copy_queries select {
+    width: 100%;
+    height: 32px;
+    padding: 0 10px;
+    font-size: 12px;
+    line-height: 1.4;
+    color: #495157;
+    background-color: #fff;
+    border: 1px solid #d5dadf;
+    border-radius: 3px;
+    transition: all .2s ease-in-out;
+}
+
+.elementor-control-copy_queries select:focus {
+    border-color: #a4afb7;
+    outline: none;
+    box-shadow: 0 0 2px rgba(0,0,0,0.1);
+}
+
+/* Estilo para o label */
+.elementor-control-copy_queries .elementor-control-title {
+    font-size: 12px;
+    font-weight: 500;
+    color: #556068;
+    margin-bottom: 8px;
+}
+
+/* Estilo para o container do controle */
+.elementor-control-copy_queries .elementor-control-input-wrapper {
+    margin-top: 5px;
+}
+
+/* Estilo para mensagens de ajuda */
+.elementor-control-copy_queries .elementor-control-field-description {
+    margin-top: 5px;
+    font-size: 11px;
+    font-style: italic;
+    color: #a4afb7;
+    line-height: 1.4;
+}
+
+/* Estilo para estados hover e focus */
+.elementor-control-copy_queries select:hover {
+    border-color: #a4afb7;
+}
+
+/* Responsividade */
+@media (max-width: 1024px) {
+    .elementor-control-copy_queries select {
+        height: 36px;
+    }
+}
+
+/* Estilo para opções do select */
+.elementor-control-copy_queries select option {
+    padding: 5px;
+    background-color: #fff;
+    color: #495157;
+}
+
+/* Estilo para estado disabled */
+.elementor-control-copy_queries select:disabled {
+    background-color: #f7f7f7;
+    cursor: not-allowed;
+}
+
+/* Estilo para o container principal */
+.elementor-control-type-select .elementor-control-input-wrapper {
+    position: relative;
+}
+
+/* Ícone de seta customizado */
+.elementor-control-type-select .elementor-control-input-wrapper:after {
+    content: '\f347';
+    font-family: dashicons;
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+    color: #556068;
+}

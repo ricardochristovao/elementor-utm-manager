@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor UTM Manager 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/ricardochristovao\n"
+"POT-Creation-Date: 2024-01-11 12:00+0000\n"
+"PO-Revision-Date: 2024-01-11 12:00+0000\n"
+"Last-Translator: Ricardo Christovão\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: elementor-utm-manager.php:31
+msgid "Elementor UTM Manager requires Elementor to be installed and activated."
+msgstr "Elementor UTM Manager requer que o Elementor esteja instalado e ativado."
+
+#: includes/class-elementor-utm-manager.php:45
+msgid "UTM Settings"
+msgstr "Configurações UTM"
+
+#: includes/class-elementor-utm-manager.php:53
+msgid "Copy URL Parameters"
+msgstr "Copiar Parâmetros da URL"
+
+#: includes/class-elementor-utm-manager.php:57
+msgid "None"
+msgstr "Nenhum"
+
+#: includes/class-elementor-utm-manager.php:58
+msgid "UTM Parameters Only"
+msgstr "Apenas Parâmetros UTM"
+
+#: includes/class-elementor-utm-manager.php:59
+msgid "All Parameters"
+msgstr "Todos os Parâmetros"

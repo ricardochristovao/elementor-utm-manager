@@ -1,0 +1,37 @@
+# Copyright (C) 2024 Ricardo Christovão
+# This file is distributed under the same license as the Elementor UTM Manager package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor UTM Manager 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/ricardochristovao\n"
+"POT-Creation-Date: 2024-01-11 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: elementor-utm-manager.php:31
+msgid "Elementor UTM Manager requires Elementor to be installed and activated."
+msgstr ""
+
+#: includes/class-elementor-utm-manager.php:45
+msgid "UTM Settings"
+msgstr ""
+
+#: includes/class-elementor-utm-manager.php:53
+msgid "Copy URL Parameters"
+msgstr ""
+
+#: includes/class-elementor-utm-manager.php:57
+msgid "None"
+msgstr ""
+
+#: includes/class-elementor-utm-manager.php:58
+msgid "UTM Parameters Only"
+msgstr ""
+
+#: includes/class-elementor-utm-manager.php:59
+msgid "All Parameters"
+msgstr ""
