@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Elementor UTM Manager
-Plugin URI: https://github.com/ricardochristovao
+Plugin URI: https://github.com/ricardochristovao/elementor-utm-manager/
 Description: UTM e Query Parameter Manager para botões do Elementor
 Version: 1.0
 Author: Ricardo Christovão
